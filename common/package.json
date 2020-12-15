@@ -1,6 +1,6 @@
 {
   "name": "@tiktrox/common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -16,7 +16,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "del-cli": "^3.0.0",
     "typescript": "^3.8.3"
   },
   "dependencies": {
