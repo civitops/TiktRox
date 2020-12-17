@@ -1,6 +1,8 @@
 import axios from 'axios';
 import { useState } from 'react';
-
+/**
+ * This hook is created to easily make API call through-out whole project
+ */
 export default ({ url, method, body, onSuccess }) => {
   const [errors, setErrors] = useState(null);
 
