@@ -1,7 +1,7 @@
 # TiktRox
 A simple Ticket marketplace.
 
-Microservices are the number one solution for building and scaling out apps that are intended to **grow**.every major challenge of building microservices is covered in this Project.  
+Microservices are the number one solution for building and scaling out apps that are intended to **grow**.Every major challenge of building microservices is covered in this Project.  
 
 Beyond focusing on Microservices, there is plenty full stack development involved.It includes : 
 
